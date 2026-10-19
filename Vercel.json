@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/:path*",
-      "destination": "https://browser.lol/:path*"
+      "source": "https/bit.ly/myfiles10
+      "destination": "https://browser.lol"
     }
   ]
 }
